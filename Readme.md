@@ -1,5 +1,7 @@
 Docker and AWS Elastic Beanstalk Project
+
 Project Overview
+
 This project demonstrates the use of Docker for containerizing applications and deploying them on AWS Elastic Beanstalk. The project covers various aspects of Docker, including containerization, creating custom Docker images, and deploying applications to the cloud.
 
 What is Docker?
